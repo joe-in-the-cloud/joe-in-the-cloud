@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joe-in-the-cloud
 - 👀 I’m interested in Cloud Computing including Cloud Data, Cloud Architecture, and Cloud Security.
 - 🌱 I’m currently learning constantly.
-- 💞️ I’m looking to collaborate on the future of cloud.
 - 📫 How to reach me: joeintheclouds@gmail.com
 
 <!---
